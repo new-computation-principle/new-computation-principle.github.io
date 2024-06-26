@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="t9ksfAEJAqdFiAjrpzML" name="ページ1">
+        <mxGraphModel dx="715" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="500" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#000000;strokeWidth=15;fillColor=none;size=45;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="122.5" y="360" width="275" height="95" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=15;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="40" width="420" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;font style=&quot;font-size: 180px;&quot;&gt;NCP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=7;fontSize=180;fontColor=#3333FF;fontFamily=Verdana;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="185" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
